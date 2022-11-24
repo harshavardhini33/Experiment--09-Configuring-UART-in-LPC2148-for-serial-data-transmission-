@@ -79,7 +79,7 @@ delay(200);
 ```
 ## Output screen shots :
 ## Before Stimulation:
-![o1](https://user-images.githubusercontent.com/93427208/203839782-f866ceec-ecff-4cbd-b889-6fe2b30b9a78.jpeg)
+![o2](https://user-images.githubusercontent.com/93427208/203840184-6b82fc98-5680-45e1-aaba-8784e1ad9d34.jpeg)
 ## After Stimulation:
 ![o1](https://user-images.githubusercontent.com/93427208/203839782-f866ceec-ecff-4cbd-b889-6fe2b30b9a78.jpeg)
 
