@@ -1,9 +1,9 @@
 ## Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
-
+```
 Name :HARSHA VARDHINI.M
 Roll no :21221240015
 Date of experiment :24/11/22
-
+```
 
 ## Aim: 
      To configure internal UART for transferring serial data and display it on the Virtual terminal  
@@ -79,11 +79,10 @@ delay(200);
 ```
 ## Output screen shots :
 ## Before Stimulation:
-![](./O1.png)
+![o1](https://user-images.githubusercontent.com/93427208/203839782-f866ceec-ecff-4cbd-b889-6fe2b30b9a78.jpeg)
 ## After Stimulation:
-![](./O2.png)
-## Circuit Diagram:
-![](./o3.png)
+![o2](https://user-images.githubusercontent.com/93427208/203839810-2c3d64b8-8936-4259-abc2-2e9a70014e70.jpeg)
+
 
 ## Result :
         UART is programmed for transmitting serial data on virtual terminal  
