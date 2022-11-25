@@ -79,9 +79,14 @@ delay(200);
 ```
 ## Output screen shots :
 ## Before Stimulation:
-![o2](https://user-images.githubusercontent.com/93427208/203840184-6b82fc98-5680-45e1-aaba-8784e1ad9d34.jpeg)
+![ex-9 3](https://user-images.githubusercontent.com/93427208/204022178-4ee43de8-5a2e-4833-b974-767e4806058a.png)
+
 ## After Stimulation:
-![o1](https://user-images.githubusercontent.com/93427208/203839782-f866ceec-ecff-4cbd-b889-6fe2b30b9a78.jpeg)
+![ex-9 2](https://user-images.githubusercontent.com/93427208/204022206-c85e416b-37ff-4c6b-b245-e647d589b603.png)
+
+## Circuit diagram:
+![ex-9](https://user-images.githubusercontent.com/93427208/204022281-38d54cda-5bf6-4deb-ae10-be67ba8d917c.png)
+
 
 
 
